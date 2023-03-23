@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"forSource:target:" : "ct 10/16/2022 15:49" },
+	"instance" : {
+		"initialize" : "ct 10/16/2022 22:20",
+		"initializeForSource:target:" : "ct 10/16/2022 15:52",
+		"isIndirectlyActive" : "ct 10/16/2022 22:19",
+		"isIndirectlyActive:" : "ct 10/16/2022 22:19",
+		"isIndirectlyHovered" : "ct 10/16/2022 16:08",
+		"isIndirectlyHovered:" : "ct 10/16/2022 16:08",
+		"rejectsEvent:" : "ct 10/16/2022 16:17",
+		"source" : "ct 10/16/2022 15:55",
+		"target" : "ct 10/16/2022 15:55",
+		"updateBounds" : "ct 10/16/2022 22:14",
+		"updateDisplayStyle" : "ct 10/16/2022 22:28" } }

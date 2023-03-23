@@ -1,0 +1,4 @@
+accessing
+labelString
+
+	^ label contents

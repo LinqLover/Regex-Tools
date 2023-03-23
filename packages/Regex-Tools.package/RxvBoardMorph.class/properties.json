@@ -1,0 +1,19 @@
+{
+	"category" : "Regex-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lanes",
+		"arrows",
+		"hoveredLinkMorph",
+		"activeLinkMorph",
+		"threadMorph",
+		"activeLinkChain" ],
+	"name" : "RxvBoardMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

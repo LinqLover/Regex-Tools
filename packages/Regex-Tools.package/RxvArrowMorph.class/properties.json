@@ -1,0 +1,17 @@
+{
+	"category" : "Regex-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"source",
+		"target",
+		"indirectlyHovered",
+		"indirectlyActive" ],
+	"name" : "RxvArrowMorph",
+	"pools" : [
+		 ],
+	"super" : "CurveMorph",
+	"type" : "normal" }

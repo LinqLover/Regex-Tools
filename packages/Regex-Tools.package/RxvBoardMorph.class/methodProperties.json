@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"forLink:" : "ct 10/13/2022 10:09" },
+	"instance" : {
+		"activeLink:" : "ct 10/13/2022 12:32",
+		"activeLinkChain:currentResult:" : "ct 10/16/2022 22:24",
+		"activeLinkMorph:" : "ct 10/13/2022 12:27",
+		"addArrowFrom:to:" : "ct 10/16/2022 15:54",
+		"addLane" : "ct 10/13/2022 10:32",
+		"addLink:" : "ct 10/13/2022 09:43",
+		"addLink:toLane:" : "ct 10/13/2022 10:55",
+		"addLink:toLane:atColumn:" : "ct 10/16/2022 17:43",
+		"allArrowMorphsDo:" : "ct 10/16/2022 16:45",
+		"allLinkMorphsDo:" : "ct 10/13/2022 11:23",
+		"arrowFrom:to:" : "ct 10/16/2022 15:55",
+		"findLink:" : "ct 10/13/2022 10:31",
+		"hoveredLinkMorph:" : "ct 10/13/2022 11:44",
+		"initialize" : "ct 10/16/2022 22:38",
+		"lanes" : "ct 10/13/2022 10:32",
+		"layoutChanged" : "ct 10/16/2022 17:43",
+		"unhoveredLinkMorph:" : "ct 10/13/2022 11:44",
+		"updateAllAncestors" : "ct 10/13/2022 12:19",
+		"updateArrows" : "ct 10/16/2022 22:39",
+		"updateDisplayStyles" : "ct 10/16/2022 22:23" } }

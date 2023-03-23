@@ -1,0 +1,14 @@
+{
+	"category" : "Regex-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"linkMorphs" ],
+	"name" : "RxvLaneMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

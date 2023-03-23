@@ -1,0 +1,25 @@
+{
+	"category" : "Regex-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"link",
+		"label",
+		"active",
+		"hovered",
+		"parents",
+		"successors",
+		"ancestors",
+		"indirectlyHovered",
+		"indirectlyActive",
+		"mouseState",
+		"predecessors",
+		"state" ],
+	"name" : "RxvLinkMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
